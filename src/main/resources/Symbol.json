@@ -1,0 +1,9 @@
+{
+  "amountOfStates": 2,
+  "matrix": [
+    [ "", "{}[]\"';:,&()_"],
+    [ "", ""]
+  ],
+  "priority": 1,
+  "name": "symbol"
+}

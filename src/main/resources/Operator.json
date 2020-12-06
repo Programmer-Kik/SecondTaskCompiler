@@ -1,0 +1,9 @@
+{
+  "amountOfStates": 2,
+  "matrix": [
+    [ "", "!%^*-+=<>/"],
+    [ "", ""]
+  ],
+  "priority": 1,
+  "name": "operator"
+}
